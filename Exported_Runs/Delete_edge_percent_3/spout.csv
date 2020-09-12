@@ -1,0 +1,2 @@
+,time,metric.instance,metric.actor,Raphtory_Spout_Tuples_total,host_load_average,usedMemory,NetworkIn,NetworkOut,mailbox,mailboxTime,cycles,pauses
+73,1599583447,11.0.0.90,UpdateGen,0,0.5953124999905413,5.513854976,0.019067900000000002,0.2012088,10.0,0.016414208,0.161,0.009

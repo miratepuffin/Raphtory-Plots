@@ -1,0 +1,4 @@
+{"views":[
+{"time":1470783600000,"windowsize":864000000,"totTriangles":0,"avgCluster":0.0,"viewTime":3185,"concatTime":3}
+{"time":1471647600000,"windowsize":864000000,"totTriangles":587,"avgCluster":0.24483326819378437,"viewTime":10534,"concatTime":1}
+{"time":1472511600000,"windowsize":864000000,"totTriangles":32840,"avgCluster":0.17120085198340118,"viewTime":1225,"concatTime":0}
